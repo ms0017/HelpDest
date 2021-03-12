@@ -1,3 +1,3 @@
 # HelpDest
 
-A help desk instance
+A java help desk instance
